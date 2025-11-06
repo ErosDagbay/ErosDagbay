@@ -21,4 +21,10 @@ I am a passionate IT student at Xavier University, driven by a curiosity for tec
 - 🌟 Completed Git & GitHub Setup 2024
 - 🔭 I’m currently working on my final API project.
 
+Fun Facts about me: 
+- likes to make model kits
+- makes music
+- is a fan of k-pop
+- is athletic and a gymrat
+
 Thanks for stopping by!
